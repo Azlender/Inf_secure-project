@@ -1,5 +1,5 @@
 # Inf_secure-project
-#Requiements: 
+Requiements: 
 
 Insatall WinRAR and transfer file 'rar.exe' to project directory 
 
